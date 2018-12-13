@@ -1,0 +1,5 @@
+name: TestPlugin
+main: sample.Main
+version: 0.1
+author: Author
+description: Test Plugin
